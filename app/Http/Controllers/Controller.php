@@ -4,5 +4,5 @@ namespace App\Http\Controllers;
 
 abstract class Controller
 {
-    juna kontol
+    juna kontol memek
 }
